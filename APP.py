@@ -297,8 +297,8 @@ if predict_btn:
 st.markdown(
     """
     <div class="footer">
-        <b>Author:</b> Sheng Liang, M.D., Ph.D.<br>
-        <b>Affiliation:</b> Hengzhou City People's Hospital, Hengzhou, Guangxi, China<br>
+        <b>Author:</b> Xuefei Liang , M.D., Ph.D.<br>
+        <b>Affiliation:</b> Rongxian People's Hospital, Guangxi, China<br>
         <i>Powered by Streamlit | Developed for clinical research and precision medicine.</i>
     </div>
     """,
