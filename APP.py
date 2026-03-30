@@ -103,8 +103,8 @@ st.markdown(
 )
 
 # 插入横幅图片
-if os.path.exists("images.jpeg"):
-    st.image("images.jpeg", use_column_width=True)
+if os.path.exists("PIC1.png"):
+    st.image("PIC1.png", use_column_width=True)
 
 # =========================
 # 4. 数据与模型加载
